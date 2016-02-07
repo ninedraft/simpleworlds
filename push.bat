@@ -1,3 +1,4 @@
+@echo off
 set hour=%time:~0,2%
 if "%hour:~0,1%" == " " set hour=0%hour:~1,1%
 set min=%time:~3,2%
