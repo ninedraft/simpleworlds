@@ -23,4 +23,3 @@ echo datetimef=%datetimef%
 
 git add -A
 git commit -m %datetimef%
-git puhs 
